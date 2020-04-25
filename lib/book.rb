@@ -37,7 +37,7 @@ end
  end 
  
  def genre
-   @page_count
+   @genre
  end 
  
 end
