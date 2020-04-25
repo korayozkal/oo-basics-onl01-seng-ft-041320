@@ -24,12 +24,22 @@ def author
   @author 
 end 
 
-def page_count= (page_count
-  @page_count
+def page_count= (page_count)
+  @page_count= page_count
+end 
+  
+  def page_count
+    @page_count
+end 
 
-def 
-
-
+ def genre= (genre)
+   @genre = genre
+ end 
+ 
+ def genre
+   @page_count
+ end 
+ 
 end
 
 
