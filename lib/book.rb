@@ -47,7 +47,7 @@ end
  def turn_page
    @turn_page
  end 
- puts 
+ puts "Flipping the page...wow, you readfast!"
 end
 
 
